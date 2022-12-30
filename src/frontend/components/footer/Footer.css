@@ -1,0 +1,8 @@
+.author-firstName
+{
+    background-color: var(--primary--color);
+    color: var(--text--primary--color);
+    padding: 5px 5px;
+    letter-spacing: 1px;
+    margin-right: 10px;
+}

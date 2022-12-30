@@ -1,0 +1,29 @@
+.top-nav
+{
+    height: 12vh;
+    width: 100%;
+    padding: 1rem 3rem;
+    position: fixed;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.brandName
+{
+    font-size: 2rem;
+    color: var(--primary--color);
+    font-family: Google Sans,arial,sans-serif;
+}
+
+.brand-firstName
+{
+    background-color: var(--primary--color);
+    color: var(--text--primary--color);
+    padding: 5px 8px;
+    margin-right: 10px;
+}
+
+.right-nav
+{
+    font-size: 1.5rem;
+}
